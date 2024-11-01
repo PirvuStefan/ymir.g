@@ -130,7 +130,7 @@
             ]
         },
         {
-            "chance": 0.10,
+            "chance": 0.15,
             "slopeCondition":{
                 "minimumSlope": 0,
                 "maximumSlope": 0.4
